@@ -1,4 +1,4 @@
-# SOP-BRD-Automation-using-Gen-AI-
+# SOP-BRD-Automation-using-Gen-AI-Power Automate
 -----
 
 # 🏗️ Digital Site Manager: No-Code AI for Construction
